@@ -1,1 +1,12 @@
 #newfile
+
+mobiles = [
+    {brand:"Xiaomi, ram:"4gb", rom:"64Gb"},
+    {brand:"Nokia, ram:"2gb", rom:"32Gb"},
+    {brand:"Samsung, ram:"8gb", rom:"128Gb"},
+    {brand:"Oppo, ram:"4gb", rom:"64Gb"}
+]
+
+cities=[
+    madurai, theni, chennai, virudhunagar, sivagankai
+]

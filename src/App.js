@@ -1,10 +1,13 @@
+import Main from "./mycomponent/main";
+
+
 
 function App() {
   
   return (
     <div className="App">
-    <Anitha/>
-     
+      <h1>hello world</h1>
+      <Main/>
     </div>
   );
 }
